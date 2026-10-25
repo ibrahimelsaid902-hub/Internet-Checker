@@ -2,25 +2,17 @@
 
 **Last updated:** October 25, 2026
 
-## Introduction
-Internet Checker is an Android application designed to help users check their internet connection status.
+Internet Checker is an Android application developed by Fekra to check internet connectivity, perform ping tests, and display Wi-Fi signal strength.
 
-## Information Collection
-Internet Checker does not collect, store, or share personal information with the developer.
+Data Collection: The app does not collect, store, or share users' personal information.
 
-The app may check network connectivity to determine whether the device is connected to the internet. This functionality is used solely to provide the app's core features.
+Permissions: The app does not request runtime permissions from users.
 
-## Permissions
-The app may use network-related permissions required to check internet connectivity. These permissions are used only for the app's intended functionality.
+Third-Party Services: The app does not use third-party analytics or advertising services.
 
-## Third-Party Services
-The app does not use third-party services to collect personal information, unless otherwise disclosed in a future update.
+Data Security: Since the app does not collect or store personal information, it does not maintain a database of users' personal data.
 
-## Children's Privacy
-Internet Checker does not knowingly collect personal information from children.
-
-## Changes to This Privacy Policy
-This Privacy Policy may be updated when necessary. Any updates will be published on this page.
+Changes: This policy may be updated when necessary.
 
 ## Contact Us
 For questions about this Privacy Policy, please contact:
